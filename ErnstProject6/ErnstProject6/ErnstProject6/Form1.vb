@@ -1,14 +1,6 @@
 ﻿Public Class Form1
     Dim save, Vloss, FoAWG, Vs, Rwire, I, Pload, Vload, TB1C, TB2C, TB3C, TB4C, TB5C As Decimal
 
-    Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
-        If Not ListBox1.SelectedIndex = -1 Then
-            ListBox1.Items.Remove(ListBox1.SelectedItem)
-        Else
-            MsgBox("Please select an itom from the listbox on the left")
-        End If
-    End Sub
-
     Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
         'reset button for user entered values
         Label1.Visible = False
@@ -69,6 +61,7 @@
         Dim Listitomconv As Decimal
         Dim O As String = "O"
         Dim FirstO As Integer = Listitom.IndexOf("O")
+        Dim LenListitom As Integer = Len(Listitom)
         Listitomconv = Listitom.Remove(FirstO)
 
         'maths
@@ -87,7 +80,7 @@
         If Vloss > 5 Then
             'red warning
             Label1.ForeColor = Color.Red
-            Label1.Text = "low Voltage " & Vloss & "%"
+            Label1.Text = "low Voltage " & FormatNumber(Vloss, 2) & "%"
             Label1.Visible = True
         End If
         'end maths
