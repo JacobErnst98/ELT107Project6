@@ -9,3 +9,14 @@ c:\users\jacob\documents\visual studio 2015\Projects\ErnstProject6\ErnstProject6
 c:\users\jacob\documents\visual studio 2015\Projects\ErnstProject6\ErnstProject6\obj\Debug\ErnstProject6.exe
 c:\users\jacob\documents\visual studio 2015\Projects\ErnstProject6\ErnstProject6\obj\Debug\ErnstProject6.xml
 c:\users\jacob\documents\visual studio 2015\Projects\ErnstProject6\ErnstProject6\obj\Debug\ErnstProject6.pdb
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\bin\Debug\ErnstProject6.exe.config
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\obj\Debug\ErnstProject6.exe
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\obj\Debug\ErnstProject6.xml
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\obj\Debug\ErnstProject6.pdb
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\bin\Debug\ErnstProject6.exe
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\bin\Debug\ErnstProject6.pdb
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\bin\Debug\ErnstProject6.xml
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\obj\Debug\ErnstProject6.vbprojResolveAssemblyReference.cache
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\obj\Debug\ErnstProject6.Form1.resources
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\obj\Debug\ErnstProject6.Resources.resources
+C:\Users\enrlab\Desktop\ELT107Project6-master\ErnstProject6\obj\Debug\ErnstProject6.vbproj.GenerateResource.Cache

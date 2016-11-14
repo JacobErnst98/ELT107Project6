@@ -61,7 +61,6 @@
         Dim Listitomconv As Decimal
         Dim O As String = "O"
         Dim FirstO As Integer = Listitom.IndexOf("O")
-        Dim LenListitom As Integer = Len(Listitom)
         Listitomconv = Listitom.Remove(FirstO)
 
         'maths
