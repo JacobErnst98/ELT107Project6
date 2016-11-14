@@ -1,0 +1,4 @@
+25.7 Ohms pur 1000ft  24 AWG
+1.6 Ohms pur 1000ft  12 AWG
+1 Ohm pur 1000ft  10 AWG
+0.2 Ohms pur 1000ft  main
